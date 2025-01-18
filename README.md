@@ -10,9 +10,9 @@ Building flight test analysis tools @ Shield AI ([we're hiring!](https://jobs.le
 
 #### You can find me, my contact info, and links on my portfolio site:
 
-https://danieledminster.com [(and the source code for it here)](https://github.com/daniel-edminster/portfolio)
+https://danieledminster.com 
 
-<sub>NB: Current open source repositories are _very_ dated and not representative of my ability. </sub>
+
 <!--
 **Daniel-Edminster/daniel-edminster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
